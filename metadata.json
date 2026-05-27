@@ -1,0 +1,6 @@
+{
+  "name": "GitNest Visualizer",
+  "description": "An immersive macOS Git graph visualizer and interactive terminal simulator modeled after GitNest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
